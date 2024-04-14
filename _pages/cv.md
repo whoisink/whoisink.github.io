@@ -27,6 +27,7 @@ Work experience
 * Fall 2022: Teaching Assistant
   * China Three Gorges University
   * Supervisor: Prof. Shangkun Deng
+  * Course: Financial Empirical Analysis
 
 ** **
 
