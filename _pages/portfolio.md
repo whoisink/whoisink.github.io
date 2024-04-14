@@ -40,7 +40,3 @@ Journal Peer Reviewer
 * Financial Innovation
 
 ** **
-
-{% for post in site.portfolio reversed %}
-  {% include archive-single.html %}
-{% endfor %}
