@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+** **
+
 Education
 ======
 * M.S. in Professional Accounting, China Three Gorges University, 2023
 * B.S. in Forestry, Beihua University, 2020
+
+** **
 
 Work experience
 ======
@@ -24,6 +28,8 @@ Work experience
   * China Three Gorges University
   * Supervisor: Prof. Shangkun Deng
 
+** **
+
 Skills
 ======
 * R
@@ -31,6 +37,8 @@ Skills
 * Python
 * Visio
 * Origin
+
+** **
 
 Publications
 ======
