@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Professional Accounting, China Three Gorges University, 2023
 * B.S. in Forestry, Beihua University, 2020
 
