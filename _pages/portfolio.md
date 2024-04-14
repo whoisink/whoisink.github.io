@@ -11,9 +11,9 @@ author_profile: true
 
 Recognitions
 ======
-* Chinese national scholarships for postgraduate students
-* Outstanding graduate award of the China Three Gorges University
-* Outstanding thesis award of the China Three Gorges University
+* Chinese national scholarships for postgraduate students (2022)
+* Outstanding graduate award of the China Three Gorges University (2023)
+* Outstanding thesis award of the China Three Gorges University (2023)
 
 ** **
 
