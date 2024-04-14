@@ -38,3 +38,8 @@ Journal Peer Reviewer
 ======
 * Information Processing and Management
 * Financial Innovation
+
+
+{% for post in site.portfolio reversed %}
+  {% include archive-single.html %}
+{% endfor %}
