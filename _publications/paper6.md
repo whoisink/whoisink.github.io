@@ -2,7 +2,7 @@
 title: 'High-Frequency Direction Forecasting and Simulation Trading of the Crude Oil Futures using Ichimoku KinkoHyo and Fuzzy Rough Set'
 collection: publications
 permalink: /publication/paper6
-date: 2022-11-23
+date: 2023-04-01
 venue: 'Expert Systems with Applications'
 ---
 
