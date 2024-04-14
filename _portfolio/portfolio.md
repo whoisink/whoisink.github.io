@@ -1,8 +1,16 @@
+---
+permalink: /portfolio/portfolio
+---
+
+** **
+
 Recognitions
 ======
 * Chinese national scholarships for postgraduate students
 * Outstanding graduate award of the China Three Gorges University
 * Outstanding thesis award of the China Three Gorges University
+
+** **
 
 Research Project Participant
 ======
@@ -12,12 +20,16 @@ Research Project Participant
 
 * **Natural Science Foundation of Yichang City**: Research on the Forward Trading System for Citrus in Yichang Region
 
+** **
+
 Chinese computer software copyright holder
 ======
 * A systematic financial risk monitoring system based on deep learning.
   Registration number: 2023SR0324321
 * An instantaneous GDP forecasting software based on dynamic factor model.
   Registration number: 2022SR0773792
+
+** **
 
 Journal Peer Reviewer
 ======
