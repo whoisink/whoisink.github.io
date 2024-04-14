@@ -18,7 +18,7 @@ Research Project Participant
 
 ** **
 
-Chinese computer software copyright holder
+Chinese Computer Software Copyright Holder
 ======
 * A systematic financial risk monitoring system based on deep learning (registration number: 2023SR0324321)
 * An instantaneous GDP forecasting software based on dynamic factor model (registration number: 2022SR0773792)
