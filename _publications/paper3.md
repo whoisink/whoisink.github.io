@@ -2,7 +2,7 @@
 title: 'Dynamic forecasting of the Shanghai Stock Exchange index movement using multiple types of investor sentiment'
 collection: publications
 permalink: /publication/paper3
-date: 2022-06-09
+date: 2022-08-09
 venue: 'Applied Soft Computing'
 ---
 
