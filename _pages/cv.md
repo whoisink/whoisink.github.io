@@ -13,6 +13,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Finance, Masaryk University, Now
 * M.S. in Professional Accounting, China Three Gorges University, 2023
 * B.S. in Forestry, Beihua University, 2020
 
