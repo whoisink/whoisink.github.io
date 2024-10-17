@@ -38,5 +38,8 @@ Journal Peer Reviewer
 ======
 * Information Processing and Management
 * Financial Innovation
+* Intelligent Systems with Applications
+* International Review of Financial Analysis
+* CMC-Computers, Materials & Continua
 
 ** **
