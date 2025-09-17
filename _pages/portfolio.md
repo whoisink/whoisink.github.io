@@ -40,6 +40,16 @@ Journal Peer Reviewer
 * Financial Innovation
 * Intelligent Systems with Applications
 * International Review of Financial Analysis
+* Journal of Behavioral and Experimental Finance
+* Computational Economics
+* International Journal of Forecasting 
 * CMC-Computers, Materials & Continua
+* Journal of Forecasting
+* Journal of Mathematics
+* Computing&AI Connect
+* Information Sciences
+* Heliyon
+
+
 
 ** **
