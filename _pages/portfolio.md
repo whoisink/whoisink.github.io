@@ -20,7 +20,7 @@ Recognitions
 
 Research Project Participant
 ======
-* ****Sentiment-Driven Volatility Forecasting (PI)** Masaryk University (MUNI/A/1694/2025)
+* **Sentiment-Driven Volatility Forecasting (PI)** Masaryk University (MUNI/A/1694/2025)
 
 * **National Social Science Fund of China (grant number: 23BJL037)**: Research on the Application of Big Data and Deep Learning Methods in Credit Debt Default Risk Warning Management
 
