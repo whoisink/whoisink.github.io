@@ -13,6 +13,7 @@ redirect_from:
 
 Education
 ======
+* CSC Fellowship, China Scholarship Council, 2025-2028
 * Ph.D. in Finance, Masaryk University, Now
 * M.S. in Accounting, China Three Gorges University, 2023
 * B.S. degree, Beihua University, 2020
@@ -21,6 +22,12 @@ Education
 
 Work experience
 ======
+* 2026.02-2028.12: Researcher I
+  * Masaryk University
+ 
+* 2025: Teaching Assistant
+  * Masaryk University
+
 * Summer 2023: Research Assistant
   * China Three Gorges University
   * Supervisor: Prof. Shangkun Deng
