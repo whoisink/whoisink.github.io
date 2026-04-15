@@ -42,13 +42,23 @@ Journal Peer Reviewer
 * International Review of Financial Analysis
 * Journal of Behavioral and Experimental Finance
 * Computational Economics
-* International Journal of Forecasting 
+* International Journal of Forecasting
 * CMC-Computers, Materials & Continua
 * Journal of Forecasting
 * Journal of Mathematics
 * Computing&AI Connect
 * Information Sciences
 * Heliyon
+* Finance Research Open 
+* AIMS Mathematics
+* North American Journal of Economics and Finance
+* Engineering Applications of Artificial Intelligence
+* International Review of Economics and Finance
+* International Journal of Cognitive Computing in Engineering
+* Applied Economics
+* The Journal of Finance and Data Science
+* Economic Modelling
+* Process Safety and Environmental Protection
 
 
 
