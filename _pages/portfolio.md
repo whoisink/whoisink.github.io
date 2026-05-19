@@ -62,6 +62,10 @@ Journal Peer Reviewer
 * The Journal of Finance and Data Science
 * Economic Modelling
 * Process Safety and Environmental Protection
+* Array
+* Research in International Business and Finance
+* Neural Networks
+* Expert Systems With Applications
 
 
 
