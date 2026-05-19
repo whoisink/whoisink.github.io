@@ -1,13 +1,13 @@
 ---
-title: 'Financial Futures Prediction Using Fuzzy Rough Set and Synthetic Minority Oversampling Technique'
+title: 'Default Risk Identification of Chinese Corporate Bonds Using Interpretable Machine Learning'
 collection: publications
 permalink: /publication/paper4
-date: 2022-11-16
-venue: 'Advances in Mathematical Physics'
+date: 2026-02-17
+venue: 'Computational Economics'
 ---
 
 ** **
 
-[☞link here☜](https://www.hindawi.com/journals/amp/2022/7622906/)
+[☞link here☜](https://link.springer.com/article/10.1007/s10614-025-11251-1)
 
-Abstract: In this research, a novel approach called SMOTE-FRS is proposed for movement prediction and trading simulation of the Chinese Stock Index 300 (CSI300) futures, which is the most crucial financial futures in the Chinese A-share market. First, the SMOTE- (Synthetic Minority Oversampling Technique-) based method is employed to address the sample unbalance problem by oversampling the minority class and undersampling the majority class of the futures price change. Then, the FRS- (fuzzy rough set-) based method, as an efficient tool for analyzing complex and nonlinear information with high noise and uncertainty of financial time series, is adopted for the price change multiclassification of the CSI300 futures. Next, based on the multiclassification results of the futures price movement, a trading strategy is developed to execute a one-year simulated trading for an out-of-sample test of the trained model. From the experimental results, it is found that the proposed method averagely yielded an accumulated return of 6.36%, a F1-measure of 65.94%, and a hit ratio of 62.39% in the four testing periods, indicating that the proposed method is more accurate and more profitable than the benchmarks. Therefore, the proposed method could be applied by the market participants as an alternative prediction and trading system to forecast and trade in the Chinese financial futures market.
+Abstract: Current research on corporate bond default identification in China faces several challenges, including imbalanced default samples, complex hyperparameter configurations, and limited interpretability of the identification model. To tackle these issues, this study employs an interpretable machine learning framework, leveraging its efficient data-processing capabilities. Using samples of Chinese defaulted bonds from 2014 to 2024, the framework first applies the Synthetic Minority Over-sampling Technique (SMOTE) to alleviate classification bias resulting from sample imbalance. Subsequently, the Light Gradient Boosting Machine (LightGBM) is employed for feature selection and default bond identification, while the multi-objective optimization algorithm Non-dominated Sorting Genetic Algorithm II (NSGA-II) is used to optimize the hyperparameters of the LightGBM, thereby improving the model’s generalization capability. Finally, the SHapley Additive exPlanations (SHAP) method is adopted to interpret the marginal contributions of default factors to the identification outcomes. Experimental results show that the proposed model achieves an average identification accuracy of over 82.88% across four different prediction windows, with an average efficiency metric of 93.54%. Moreover, SHAP analysis reveals that risk factors such as the cash asset ratio play a critical role in default identification within China’s bond market. These findings confirm that the proposed approach not only makes the decision-making process of key risk factors interpretable but also offers regulatory authorities a scientific basis for policymaking, thereby supporting the development of targeted regulatory frameworks and enabling proactive intervention in high-risk bonds.
