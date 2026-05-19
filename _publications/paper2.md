@@ -1,13 +1,13 @@
 ---
-title: "High-Frequency Direction Forecasting of the Futures Market Using a Machine-Learning-Based Method"
+title: "Financial distress warning and risk path analysis for Chinese listed companies: An interpretable machine learning approach"
 collection: publications
 permalink: /publication/paper2
-date: 2022-06-09
-venue: 'Future Internet'
+date: 2025-08-08
+venue: 'Economic Modelling'
 ---
 
 ** **
 
-[☞link here☜](https://www.mdpi.com/1999-5903/14/6/180)
+[☞link here☜](https://www.sciencedirect.com/science/article/pii/S0264999325002834)
 
-Abstract: Futures price-movement-direction forecasting has always been a significant and challenging subject in the financial market. In this paper, we propose a combination approach that integrates the XGBoost (eXtreme Gradient Boosting), SMOTE (Synthetic Minority Oversampling Technique), and NSGA-II (Non-dominated Sorting Genetic Algorithm-II) methods. We applied the proposed approach on the direction prediction and simulation trading of rebar futures, which are traded on the Shanghai Futures Exchange. Firstly, the minority classes of the high-frequency rebar futures price change magnitudes are oversampled using the SMOTE algorithm to overcome the imbalance problem of the class data. Then, XGBoost is adopted to construct a multiclassification model for the price-movement-direction prediction. Next, the proposed approach employs NSGA-II to optimize the parameters of the pre-designed trading rule for trading simulation. Finally, the price-movement direction is predicted, and we conducted the high-frequency trading based on the optimized XGBoost model and the trading rule, with the classification and trading performances empirically evaluated by four metrics over four testing periods. Meanwhile, the LIME (Local Interpretable Model-agnostic Explanations) is applied as a model explanation approach to quantify the prediction contributions of features to the forecasting samples. From the experimental results, we found that the proposed approach performed best in terms of direction prediction accuracy, profitability, and return–risk ratio. The proposed approach could be beneficial for decision-making of the rebar traders and related companies engaged in rebar futures trading.
+Abstract: Financial distress is typically not a sudden occurrence, but rather the outcome of accumulated operational inefficiencies and external pressures. In China’s capital market, existing financial distress warning models offer limited interpretability, making it challenging for regulators to obtain a reliable basis for risk identification. To address this limitation, we propose an interpretable machine learning framework that integrates extreme gradient boosting with non-dominated sorting genetic algorithm II for multiobjective optimization, and Shapley additive explanations with interpretive structural modeling to reveal both the marginal effects and the risk formation pathways of financial indicators. Using empirical data from A-share listed firms between 2010 and 2024, the optimized model demonstrates a 3.32 % improvement in warning accuracy and a 2.15 % gain in efficiency compared with benchmark models. Furthermore, the findings show that the predictive influence of profitability diminishes as the lead time before financial distress increases. Overall, this study presents an interpretable model that enables regulators and policymakers to identify financial risks at earlier stages and implement targeted interventions in the market environment.
